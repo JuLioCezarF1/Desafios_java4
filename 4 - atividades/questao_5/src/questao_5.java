@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class questao_5 {
+public class Questao_5 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -11,3 +11,4 @@ public class questao_5 {
         sc.close();
     }
 }
+
