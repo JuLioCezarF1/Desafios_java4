@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class questao_1 {
+public class Questao_1 {
     public static void main(String[] args) throws Exception {
     System.out.print("Digite um número para saber os ímpares em seu intervalo: ");
     Scanner sc = new Scanner(System.in);
@@ -13,3 +13,4 @@ public class questao_1 {
     sc.close();
     }
 }
+
