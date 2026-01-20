@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Locale;
-public class questao_3 {
+public class Questao_3 {
     public static void main(String[] args) throws Exception {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
@@ -20,3 +20,4 @@ public class questao_3 {
         sc.close();
     }
 }
+
