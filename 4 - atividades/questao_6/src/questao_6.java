@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class questao_6 {
+public class Questao_6 {
     public static void main(String[] args) throws Exception {
     Scanner sc = new Scanner(System.in);
     System.out.print("Digite o número para descobrir seus dividendos: ");
@@ -14,3 +14,4 @@ public class questao_6 {
     sc.close();
     }
 }
+
